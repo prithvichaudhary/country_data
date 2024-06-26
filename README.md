@@ -1,8 +1,26 @@
-# country_data
-using javascript api I created a simple application which will give us countries information like 
-*capital
-*continent
-*population
-*currency
-*common languages spoken
-will give us a warning  message if the country name is invalid !
+# Country Information App
+
+A web application that provides details about countries, including population, language, currency, continent, and more. Built using HTML, CSS, and JavaScript.
+
+
+## Features
+
+- Search for a country by name
+- Display information such as:
+  - Capital
+  - Continent
+  - Population
+  - Currency
+  - Common Languages
+
+## Screenshot
+
+
+
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repository-name.git
+
