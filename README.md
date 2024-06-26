@@ -13,8 +13,7 @@ A web application that provides details about countries, including population, l
   - Currency
   - Common Languages
 
-## Screenshot
- Screenshot 2024-06-26 135755.png
+
 
 
 
