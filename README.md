@@ -22,5 +22,5 @@ A web application that provides details about countries, including population, l
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/prithvichaudhary/country_data
 
